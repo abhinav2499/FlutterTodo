@@ -1,6 +1,15 @@
 # todoapp
 
-A new Flutter project.
+<p float = "left">
+  <img src="https://github.com/abhinav2499/FlutterTodo/blob/master/screenshot-2020-11-20_11.43.28.701.png" width="310"/>
+  <img src="https://github.com/abhinav2499/FlutterTodo/blob/master/screenshot-2020-11-20_11.43.46.164.png" width="310"/>
+  <img src="https://github.com/abhinav2499/FlutterTodo/blob/master/screenshot-2020-11-20_11.44.01.704.png" width="310"/>
+ </p>
+ 
+## Features
+- Add Task with title, due date and priority
+- Update task at any time
+- Delete the task
 
 ## Getting Started
 
